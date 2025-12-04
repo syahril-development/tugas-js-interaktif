@@ -1,7 +1,7 @@
 # Tugas JavaScript Interaktif + GitHub Challenge
 
 Project ini dibuat untuk memenuhi challenge Git dan GitHub.
-
+project syahril
 ## Fitur
 - Tombol untuk mengubah tema (light/dark mode)
 - Tombol untuk memberikan sapaan ke pengguna
